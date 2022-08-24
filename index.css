@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Poppins:wght@700&display=swap');
+
+header{
+    background-color: #ffffff!important;
+}
+.sectionBg1{
+    background-color: #f7f4f4;
+}
+
+
+nav{
+    background-color: #800a0a!important;
+    font-family:'Bebas Neue',sans-serif ;
+}
+.aDama{
+    font-weight: bold;
+}
+.imgheader{
+    width: 430px!important;
+}
+.divcontainer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0;
+}
+
+.divheader{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.divheader h1{
+    margin: 0!important;
+    font-family:'Bebas Neue',sans-serif ;
+    text-transform: uppercase;
+}
+.divheaderr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1wrap{
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+
+.btnwpp{
+    background-color: rgb(179, 7, 7)!important;
+    border-radius: 20px!important;
+    margin-top: 40px;
+    width: 280px;
+    margin-bottom: 50px;
+}
+.btnwpp:hover{
+    background-color: #5c0d0d!important;
+}
+.btnwpp a{
+color: #000000;
+text-decoration: none;
+font-family:'Bebas Neue',sans-serif ;
+font-weight: bold;
+}
+.btnwpp a:hover{
+    color: #000000;
+    }
+.navbarToggleExternalContent{
+
+   background-color: black;   
+}
