@@ -63,6 +63,12 @@ padding: 0;
     width: 280px;
     margin-bottom: 50px;
 }
+.btnwpp p{
+    font-family:'Bebas Neue',sans-serif ;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
 .btnwpp:hover{
     background-color: #5c0d0d!important;
 }
