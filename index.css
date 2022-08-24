@@ -16,7 +16,7 @@ nav{
     font-weight: bold;
 }
 .imgheader{
-    width: 430px!important;
+    max-width: 430px!important;
 }
 .divcontainer{
 display: flex;
