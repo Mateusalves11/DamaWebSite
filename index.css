@@ -16,7 +16,7 @@ nav{
     font-weight: bold;
 }
 .imgheader{
-    max-width: 430px!important;
+    max-width: 100%!important;
 }
 .divcontainer{
 display: flex;
@@ -41,6 +41,8 @@ padding: 0;
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 40%;
+    
 }
 
 .h1wrap{
